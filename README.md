@@ -3,9 +3,9 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="atharv115" /></a> |<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv115&theme=radical&hide_border=true" alt="atharv115" /></p> |
 | ------------- | ------------- |
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&color=0e75b6&style=flat" alt="atharv115" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&color=03a9f4&style=plastic" alt="atharv115" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115" alt="atharv115" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=radical" alt="atharv115" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
