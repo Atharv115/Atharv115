@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&color=03a9f4&style=plastic" alt="atharv115" /> </p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=radical" alt="atharv115" /></a> 
+<p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=radical" alt="atharv115" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
