@@ -2,7 +2,7 @@
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&color=03a9f4&style=plastic" alt="atharv115" /> </p>
-![GitHub followers](https://img.shields.io/github/followers/atharv115?logo=github&logoColor=cyan&style=plastic)
+<p align="center"> <img src="https://img.shields.io/github/followers/atharv115?logo=github&logoColor=cyan&style=plastic" alt="Github-Followers" /> </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=yeblu" alt="atharv115" /></a> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv115&theme=yeblu&hide_border=true" alt="atharv115" /></p> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
