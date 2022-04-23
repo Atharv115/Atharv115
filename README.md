@@ -4,17 +4,16 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&style=plastic"
         alt="atharv115" />
-    <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"
-        alt="Github-Followers" />
+        <a href ="https://github.com/Atharv115?tab=followers" alt="GitHub Followers" title="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
+<a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=plastic"/></a>
 </p>
+<!--  -->
 
-<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=yeblu" alt="atharv115" /></a> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv115&theme=yeblu&hide_border=true" alt="atharv115" /></p> | 
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -->
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=radical" alt="atharv115" /></a> </p> -->
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=cyan&hide=issues,contribs"
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1&hide=issues,contribs"
         alt="atharv115" /></a> 
 </p>
 
@@ -23,7 +22,7 @@
     <a href="https://app.daily.dev/atharvgolam115"><img src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="300" alt="Atharv Golam's Dev Card"/></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
@@ -56,7 +55,7 @@
             alt="atharv115" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Fond off:</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -92,3 +91,4 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true" alt="atharv115" /></a> </p>
