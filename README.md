@@ -2,9 +2,9 @@
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&style=for-the-badge"
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile%20views&style=plastic"
         alt="atharv115" />
-    <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=for-the-badge"
+    <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"
         alt="Github-Followers" />
 </p>
 
@@ -14,8 +14,10 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=radical" alt="atharv115" /></a> </p> -->
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=yeblu&"
-        alt="atharv115" /></a> </p>
+        src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=cyan&hide=issues,contribs"
+        alt="atharv115" /></a> 
+</p>
+
 </p>
 <p align="center">
     <a href="https://app.daily.dev/atharvgolam115"><img src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="300" alt="Atharv Golam's Dev Card"/></a>
