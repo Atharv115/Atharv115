@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
 <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
     <img alt="Discord" src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
-    <img src="https://badges.pufler.dev/repos/atharv115?logo=GitHub&style=plastic&color=cyan">
 </p>
 <!--  -->
 
@@ -20,7 +19,7 @@
 
 </p>
 <p align="center">
-    <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="300" alt="Atharv Golam's Dev Card"/></a>
+    <a href="https://app.daily.dev/atharvgolam115"><img src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="300" alt="Atharv Golam's Dev Card"/></a>
 </p>
 
 <h3 align="center">Get in Touch with me:</h3>
@@ -92,4 +91,4 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=jolly" alt="atharv115" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true" alt="atharv115" /></a> </p>
