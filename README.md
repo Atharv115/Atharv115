@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
 <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
     <img alt="Discord" src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
+    
 </p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
