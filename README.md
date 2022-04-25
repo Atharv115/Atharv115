@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
 <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
     <img alt="Discord" src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
+    <img src="https://badges.pufler.dev/repos/atharv115?logo=GitHub&style=plastic">
 </p>
 <!--  -->
 
