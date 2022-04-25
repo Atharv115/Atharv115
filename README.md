@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Atharv</h1>
+<h1 align="center">
+ <a href ="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=28&duration=2000&color=12F7D6&center=true&vCenter=true&width=600&lines=Hello+Atharv+Golam+Here+;Developing+Real+World+Sloutions!!"/></a>
+</h1>
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
@@ -8,13 +11,12 @@
     <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
 <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
     <img alt="Discord" src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
-</p>
-<!--  -->
+</p align="center">
 
-<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1&hide=issues,contribs"
-        alt="atharv115" /></a> 
+        alt="atharv115" /></a>
+
 </p>
 
 </p>
