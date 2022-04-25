@@ -1,7 +1,13 @@
-<h1 align="center">
+<h2 align="center">
+  Welcome to Atharv Golam's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+<p align="center">
  <a href ="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=28&duration=2000&color=12F7D6&center=true&vCenter=true&width=600&lines=Hello+Atharv+Golam+Here+;Developing+Real+World+Sloutions!!"/></a>
-</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=28&duration=3000&color=A100FF&center=true&vCenter=true&width=600&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!"/></a>
+</p>
+
+---
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
@@ -93,4 +99,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true" alt="atharv115" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight" alt="atharv115" /></a> 
+</p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
