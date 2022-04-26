@@ -22,8 +22,13 @@
             alt="atharv115" /></a>
             <h3 align="center">IDE's used</h3>
             <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
+  <h3 align="center">Bloackchain Enthusiast: </h3>
+            <p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dogecoin-fcd535?style=plastic&logo=Dogecoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white" />
 </p>
             <a href="https://app.daily.dev/atharvgolam115"><img align="right"
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
