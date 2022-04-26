@@ -20,16 +20,24 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1"
             alt="atharv115" /></a>
-            <h3 align="center">IDE's used</h3>
+            <h4 align="center">IDE's used</h4>
             <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Pycharm-02c7e5?style=plastic&logo=pycharm&logoColor=white" />
-  <h3 align="center">Bloackchain Enthusiast: </h3>
+  <h4 align="center">Bloackchain Enthusiast: </h4>
             <p align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Dogecoin-fcd535?style=plastic&logo=Dogecoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white" />
+   <h4 align="center">Machine & Setup: </h4>
+            <p align="center">
+  <img src="https://img.shields.io/badge/Inspiron-007DB8?style=plastic&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ryzen_5_3500U-ED1C24?style=plastic&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=plastic&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/11-0b74c4?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iaWNvbmFwZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA2MDQgNDI0LjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYwNCA0MjQuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwNzhENDt9DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzNi4yLDEyNi40djgwLjFoMTYwLjFWNDYuNEgxMzYuMlYxMjYuNHogTTMwNy43LDEyNi40djgwLjFoMTYwLjFWNDYuNEgzMDcuN1YxMjYuNHogTTEzNi4yLDI5OFYzNzhoMTYwLjENCgkJVjIxNy45SDEzNi4yVjI5OHogTTMwNy43LDI5OFYzNzhoMTYwLjFWMjE3LjlIMzA3LjdWMjk4eiIvPg0KPC9nPg0KPC9zdmc+DQo=&label=Windows" />
+
 </p>
             <a href="https://app.daily.dev/atharvgolam115"><img align="right"
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
@@ -54,6 +62,8 @@
             alt="atharv-golam-7466a4219" height="30" width="40" /></a>
     <a href="https://dev.to/atharv" target="blank"><img align="center"
             src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" height="40" width="40" /></a>
+            <a href="https://hashnode.com/@atharvgolam115" target="blank"><img align="center"
+            src="https://simpleicons.org/icons/hashnode.svg" alt="atharvgolam115" height="40" width="40" /></a>
     <a href="https://stackoverflow.com/users/17294179/atharv-golam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="17294179/atharv-golam" height="30" width="40" /></a>
