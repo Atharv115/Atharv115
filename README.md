@@ -27,7 +27,7 @@
 </p>
 <p align="right">
     <a href="https://app.daily.dev/atharvgolam115"><img
-            src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="200"
+            src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="200"
             alt="Atharv Golam's Dev Card" /></a>
 </p>
 
