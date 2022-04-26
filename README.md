@@ -16,21 +16,14 @@
         <img alt="Discord"
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
 </p>
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1&hide=issues,contribs"
             alt="atharv115" /></a>
-</p>
-
-<!--<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="200" align="right" alt="Atharv Golam's Dev Card"/></a>-->
-
-</p>
-<p align="right">
-    <a href="https://app.daily.dev/atharvgolam115"><img
+            <a href="https://app.daily.dev/atharvgolam115"><img align="right"
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="200"
             alt="Atharv Golam's Dev Card" /></a>
 </p>
-
 <h3 align="left">Get in Touch with me:</h3>
 <p align="left">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
