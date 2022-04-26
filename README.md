@@ -1,11 +1,11 @@
-<h2 align="center">
+<h1 align="center">
     Welcome to Atharv Golam's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
     <!-- <img src="https://user-images.githubusercontent.com/86460457/165212975-8d977ede-fed9-443b-9dec-f03895497c35.png"> -->
     <a href="https://git.io/typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=20&duration=3000&color=A100FF&center=true&vCenter=true&width=450&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!" /></a>
-</h2>
+            src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=20&duration=4000&color=A100FF&center=true&vCenter=true&width=450&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!" /></a>
+</h1>
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
