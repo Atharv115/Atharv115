@@ -1,29 +1,32 @@
 <h2 align="center">
-  <!-- Welcome to Atharv Golam's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">-->
-  <img src="https://user-images.githubusercontent.com/86460457/165212975-8d977ede-fed9-443b-9dec-f03895497c35.png">
-  <a href ="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=22&duration=3000&color=A100FF&center=true&vCenter=true&width=600&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!"/></a>
+    Welcome to Atharv Golam's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <!-- <img src="https://user-images.githubusercontent.com/86460457/165212975-8d977ede-fed9-443b-9dec-f03895497c35.png"> -->
+    <a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=22&duration=3000&color=A100FF&center=true&vCenter=true&width=600&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!" /></a>
 </h2>
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic"
-        alt="atharv115" />
-        <a href ="https://github.com/Atharv115?tab=followers" alt="GitHub Followers" title="GitHub Followers">
-    <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic"/></a>
-<a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
-    <img alt="Discord" src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" />
+    <a href="https://github.com/Atharv115?tab=followers" alt="GitHub Followers" title="GitHub Followers">
+        <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic" /></a>
+    <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
+        <img alt="Discord"
+            src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1&hide=issues,contribs"
-        alt="atharv115" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1&hide=issues,contribs"
+            alt="atharv115" /></a>
 </p>
 
 </p>
 <p align="center">
-    <a href="https://app.daily.dev/atharvgolam115"><img src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="300" alt="Atharv Golam's Dev Card"/></a>
+    <a href="https://app.daily.dev/atharvgolam115"><img
+            src="https://api.daily.dev/devcards/c5ca456394d743c5805b49c12a719075.png?r=qis" width="300"
+            alt="Atharv Golam's Dev Card" /></a>
 </p>
 
 <h3 align="center">Get in Touch with me:</h3>
@@ -95,7 +98,9 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight" alt="atharv115" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight"
+            alt="atharv115" /></a>
 </p>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) -->
