@@ -24,6 +24,7 @@
             <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pycharm-02c7e5?style=plastic&logo=pycharm&logoColor=white" />
   <h3 align="center">Bloackchain Enthusiast: </h3>
             <p align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white" />
