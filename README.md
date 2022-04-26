@@ -20,9 +20,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1"
             alt="atharv115" /></a>
-            <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv115&langs_count=2&layout=compact&show_icons=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1"
-            alt="atharv115" /></a> -->
+            <h3 align="center">IDE's used</h3>
+            <p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</p>
             <a href="https://app.daily.dev/atharvgolam115"><img align="right"
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
             alt="Atharv Golam's Dev Card" /></a>
