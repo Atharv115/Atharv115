@@ -62,7 +62,8 @@
     <a href="https://dev.to/atharv" target="blank"><img align="center"
             src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" height="40" width="40" /></a>
             <a href="https://hashnode.com/@atharvgolam115" target="blank"><img align="center"
-            src="https://simpleicons.org/icons/hashnode.svg" alt="atharvgolam115" height="40" width="40" /></a>
+            src="https://simpleicons.org/icons/hashnode.svg" alt="atharvgolam115" height="40" width="40" /></a></p>
+            <p align="center">
     <a href="https://stackoverflow.com/users/17294179/atharv-golam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="17294179/atharv-golam" height="30" width="40" /></a>
