@@ -24,7 +24,12 @@
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="310"
             alt="Atharv Golam's Dev Card" /></a>
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15&column=3"
+            alt="atharv115" /></a>
+</p>
 
+---
 <h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
@@ -94,10 +99,6 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15"
-            alt="atharv115" /></a>
-</p>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) -->
 <p align="center">
