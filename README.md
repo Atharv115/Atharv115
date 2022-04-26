@@ -24,8 +24,8 @@
             src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="310"
             alt="Atharv Golam's Dev Card" /></a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=-1"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Followers,Commit,Issue"
             alt="atharv115" /></a>
 </p>
 
