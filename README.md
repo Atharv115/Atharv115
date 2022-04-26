@@ -21,15 +21,15 @@
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=25&line_height=28&icon_color=68f8f1"
             alt="atharv115" /></a>
             <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-            src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="310"
+            src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="280"
             alt="Atharv Golam's Dev Card" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Followers,Commit,Issue"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=tokyonight&margin-w=15&margin-h=15&column=3&no-frame=true&title=Stars,Followers,Commit,Issue"
             alt="atharv115" /></a>
 </p>
 
----
+***
 <h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
@@ -62,7 +62,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="atharv115" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Fond off:</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
