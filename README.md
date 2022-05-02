@@ -40,7 +40,7 @@
         src="https://img.shields.io/badge/11-0b74c4?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iaWNvbmFwZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA2MDQgNDI0LjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYwNCA0MjQuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwNzhENDt9DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzNi4yLDEyNi40djgwLjFoMTYwLjFWNDYuNEgxMzYuMlYxMjYuNHogTTMwNy43LDEyNi40djgwLjFoMTYwLjFWNDYuNEgzMDcuN1YxMjYuNHogTTEzNi4yLDI5OFYzNzhoMTYwLjENCgkJVjIxNy45SDEzNi4yVjI5OHogTTMwNy43LDI5OFYzNzhoMTYwLjFWMjE3LjlIMzA3LjdWMjk4eiIvPg0KPC9nPg0KPC9zdmc+DQo=&label=Windows" /> -->
 
 </p>
-<a href="https://app.daily.dev/atharvgolam115"><img align="right" height="200em"
+<a href="https://app.daily.dev/atharvgolam115"><img align="right" height="500em"
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
         alt="Atharv Golam's Dev Card" /></a>
 </p>
