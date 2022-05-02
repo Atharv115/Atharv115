@@ -17,8 +17,8 @@
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a>
 </p>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="170em"
-            src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true&hide=contribs"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="200em"
+            src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true&hide=contribs,issues"
             alt="atharv115" /></a>
 <h4 align="center">IDE's used</h4>
 <p align="center">
