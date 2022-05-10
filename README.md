@@ -9,14 +9,15 @@
 <h3 align="center">A passionate rookie developer from India</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" />
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" height="22" width="100"/>
     <!-- <a href="https://github.com/Atharv115?tab=followers" alt="GitHub Followers" title="GitHub Followers">
         <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic" /></a>
+
     <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
         <img alt="Discord"
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a> -->
      <a href="mailto:a.atharvgolam115@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white" /></a>
+                src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white&color=" height="22" width="70" /></a>
 </p>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="160em"
@@ -25,7 +26,7 @@
 <h4 align="center">IDE's used</h4>
 <p align="center">
     <img
-        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Pycharm-02c7e5?style=plastic&logo=pycharm&logoColor=white" />
 <h4 align="center">Bloackchain Enthusiast: </h4>
