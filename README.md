@@ -16,6 +16,8 @@
     <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
         <img alt="Discord"
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a> -->
+     <a href="mailto:a.atharvgolam115@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white&color=" height="22" width="70" /></a>
 </p>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="160em"
