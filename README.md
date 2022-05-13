@@ -15,8 +15,6 @@
     <a href="https://discord.com/channels/908991103749984256" alt="Discord" title="Atharv Golam's Server">
         <img alt="Discord"
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a> -->
-     <a href="mailto:a.atharvgolam115@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white" /></a>
 </p>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="160em"
@@ -46,7 +44,7 @@
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=15&margin-h=15&column=3&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=20&margin-h=20&column=3&no-frame=true"
             alt="atharv115" /></a>
 </p>
 
