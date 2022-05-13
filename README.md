@@ -6,9 +6,9 @@
         <img
             src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&size=20&duration=4000&color=A100FF&center=true&vCenter=true&width=450&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!" /></a>
 </h1>
-<h3 align="center">A passionate rookie developer from India</h3>
+<h3 align="center">A passionate rookie developer from India   <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" /></h3>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" />
     <!-- <a href="https://github.com/Atharv115?tab=followers" alt="GitHub Followers" title="GitHub Followers">
         <img src="https://img.shields.io/github/followers/atharv115?logo=github&style=plastic" /></a>
@@ -44,7 +44,7 @@
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=20&margin-h=20&column=3&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=35&margin-h=10&column=3&no-frame=true"
             alt="atharv115" /></a>
 </p>
 
