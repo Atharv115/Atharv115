@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/86460457/168479054-1313a338-2cc8-4bb2-b540-d698967d2d98.png" width="300">
+</p>
 <h1 align="center">
     Welcome to Atharv Golam's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
