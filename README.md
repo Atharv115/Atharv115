@@ -1,14 +1,12 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/86460457/168479054-1313a338-2cc8-4bb2-b540-d698967d2d98.png" width="180">
-</p>
 <h1 align="center" > 
     Welcome to Atharv Golam's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"> -->
     <!-- <img src="https://user-images.githubusercontent.com/86460457/165212975-8d977ede-fed9-443b-9dec-f03895497c35.png"> -->
     <a href="https://git.io/typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&color=A100FF&center=true&vCenter=true&width=450&height=45&lines=Always+Learning+new+things;Developing+Real+World+Sloutions!!" /></a>       
+            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>       
 </h1>
+
 <h3 align="center">A passionate rookie developer from India   <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" /></h3>
 
 
@@ -21,7 +19,7 @@
             src="https://img.shields.io/discord/908991103749984256?color=blue&logo=discord&logoColor=white&style=plastic"></a> -->
 </p>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="230em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="225em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 <!-- <h4 align="center">IDE's used</h4>
@@ -44,7 +42,7 @@
         src="https://img.shields.io/badge/11-0b74c4?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iaWNvbmFwZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA2MDQgNDI0LjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYwNCA0MjQuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwNzhENDt9DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzNi4yLDEyNi40djgwLjFoMTYwLjFWNDYuNEgxMzYuMlYxMjYuNHogTTMwNy43LDEyNi40djgwLjFoMTYwLjFWNDYuNEgzMDcuN1YxMjYuNHogTTEzNi4yLDI5OFYzNzhoMTYwLjENCgkJVjIxNy45SDEzNi4yVjI5OHogTTMwNy43LDI5OFYzNzhoMTYwLjFWMjE3LjlIMzA3LjdWMjk4eiIvPg0KPC9nPg0KPC9zdmc+DQo=&label=Windows" /> -->
 <p align="center">
 <img 
-        src="https://github.com/Atharv115/Atharv115/blob/main/illustration.svg" width="250"/>
+        src="https://github.com/Atharv115/Atharv115/blob/main/illustration.svg" width="265"/>
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
