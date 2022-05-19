@@ -2,6 +2,10 @@
     "recommendations": [
         "cssho.vscode-svgviewer",
         "yzhang.markdown-all-in-one",
-        "GitHub.vscode-pull-request-github"
+        "github.vscode-pull-request-github",
+        "mhutchie.git-graph",
+        "vscode-icons-team.vscode-icons",
+        "github.codespaces",
+        "adpyke.codesnap"
     ]
 }
