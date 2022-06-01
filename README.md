@@ -10,7 +10,7 @@
 
 </p>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="220em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 
@@ -21,14 +21,14 @@
         src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="400"/> -->
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="330"
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> 
             <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=onedark&margin-w=35&margin-h=10&column=3&no-frame=true"
             alt="atharv115" /></a> -->
              <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=30&margin-h=10&column=3&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true"
             alt="atharv115" /></a>
 </p>
 </p>
