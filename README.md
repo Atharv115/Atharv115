@@ -7,7 +7,7 @@
             src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>       
 </h1>
 
-<h3 align="center">A passionate rookie developer from India   <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" /></h3>
+<h3 align="center">A passionate rookie developer from India   <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=flat" alt="atharv115" /></h3>
 
 
 <!--<p align="center">
