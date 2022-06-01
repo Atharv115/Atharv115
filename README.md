@@ -16,12 +16,12 @@
 
 <p align="center">
 <img 
-        src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="250"/>
+        src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="238"/>
 <!-- <img align="right"
         src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="400"/> -->
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="330"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="338"
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> 
             <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img
