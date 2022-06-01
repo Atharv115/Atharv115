@@ -23,9 +23,14 @@
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
         alt="Atharv Golam's Dev Card" /></a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="center"> 
+            <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=onedark&margin-w=35&margin-h=10&column=3&no-frame=true"
+            alt="atharv115" /></a> -->
+             <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=30&margin-h=10&column=3&no-frame=true"
             alt="atharv115" /></a>
+</p>
 </p>
 
 ***
