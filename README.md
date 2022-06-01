@@ -34,7 +34,7 @@
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
             alt="atharvgolam" height="30" width="40" /></a>
-    <a href="https://twitter.com/Atharv_golam" target="blank"><img align="center"
+    <a href="https://twitter.com/atharvgolam115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="atharv58687880" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img align="center"
