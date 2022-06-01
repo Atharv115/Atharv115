@@ -33,7 +33,6 @@
 </p>
 </p>
 
-***
 <h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
