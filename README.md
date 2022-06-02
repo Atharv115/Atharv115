@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="205em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
@@ -20,17 +20,9 @@
 <img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
 </p>-->
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="300"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="315"
         alt="Atharv Golam's Dev Card" /></a>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" />
-    </a>
-</p>
-</p>
-
----
 <h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
     <!--<a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
@@ -99,6 +91,16 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
+    </a>
+</p>
+
+---
+<p align="center"> 
+    <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" /> 
+    </a> -->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&no-frame=true" alt="atharv115" /> 
     </a>
 </p>
 
