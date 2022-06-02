@@ -1,5 +1,5 @@
 <h1 align="center" > 
-    <strong>Welcome to Atharv Golam's profile!</strong>
+    <strong>Welcome to Atharv Golam's profile!!</strong>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" />
     </a>       
