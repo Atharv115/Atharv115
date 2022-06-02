@@ -44,7 +44,7 @@
     </details>  
 </div>
 
-<table>
+<table align="center">
 <tr>
 <th align="center"><strong>Get in Touch with me:</strong></th>
 <th align="center"><strong>Fond off:</strong></th>
