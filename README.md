@@ -64,7 +64,7 @@
             alt="atharv115" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"><strong>Fond off:</strong></h3>
+<!--<h3 align="center"><strong>Fond off:</strong></h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -100,9 +100,9 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
-</p>
+</p>-->
 
-<div align="center"> 
+<div align="center"> D
     <details>
         <summary><strong>Vibing to : 🎶🎧🎶</strong></summary>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
