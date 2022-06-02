@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="211em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
@@ -20,7 +20,7 @@
 <img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
 </p>-->
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="315"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="317"
         alt="Atharv Golam's Dev Card" /></a>
 
 ---
