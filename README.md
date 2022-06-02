@@ -21,8 +21,8 @@
         alt="Atharv Golam's Dev Card" /></a>
 
 <p align="left">
-<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="215"/>
-<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="215"/>
+<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
+<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="220"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
