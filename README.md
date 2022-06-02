@@ -1,5 +1,5 @@
 <h1 align="center" > 
-    Welcome to Atharv Golam's profile!
+    <strong>Welcome to Atharv Golam's profile!</strong>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" />
     </a>       
@@ -17,26 +17,21 @@
 </p>
 
 <p align="center">
-<img 
-        src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="238"/>
-<!-- <img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="400"/> -->
+<img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="238"/>
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="338"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="345"
         alt="Atharv Golam's Dev Card" /></a>
+
 <p align="center"> 
-            <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=onedark&margin-w=35&margin-h=10&column=3&no-frame=true"
-            alt="atharv115" /></a> -->
-             <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true"
-            alt="atharv115" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" />
+    </a>
 </p>
 </p>
 
----
-<h3 align="center">Get in Touch with me:</h3>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+<h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
@@ -68,7 +63,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="atharv115" height="30" width="40" /></a>
 </p>
-<h3 align="center">Fond off:</h3>
+
+<h3 align="center"><strong>Fond off:</strong></h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -108,10 +104,10 @@
 
 <div align="center"> 
     <details>
-        <summary><strong>Vibing to : 🎧</strong></summary>
+        <summary><strong>Vibing to : 🎶🎧🎶</strong></summary>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
-            <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="">
-            </img> 
+                <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="">
+                </img> 
             </a>
     </details>  
 </div>
@@ -119,10 +115,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Graduate&size=40&duration=4000&color=664BF7&center=true&vCenter=true&width=900&height=60&lines=This+Site+is+best+viewed+in+Dark+Mode"/></a>   
+            src="https://readme-typing-svg.herokuapp.com?font=Graduate&size=15&duration=4000&color=664BF7&center=true&vCenter=true&width=350&height=15&lines=This+Site+is+best+viewed+in+Dark+Mode"/></a>   
 </p>
 
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
+        src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=60"/>
 </p>
