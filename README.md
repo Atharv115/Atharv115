@@ -30,7 +30,7 @@
 </p>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+---
 <h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
