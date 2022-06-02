@@ -113,12 +113,11 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?font=Graduate&size=15&duration=4000&color=664BF7&center=true&vCenter=true&width=350&height=15&lines=This+Site+is+best+viewed+in+Dark+Mode"/></a>   
-</p>
-
-<p align="center">
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=60"/>
 </p>
+
+<div align="center">
+    
+![hRTPqQEl](https://user-images.githubusercontent.com/86460457/171620072-687e6440-d557-4bc6-89f3-12b04bc18706.gif)
+</div>
