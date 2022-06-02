@@ -1,18 +1,20 @@
 <h1 align="center" > 
     Welcome to Atharv Golam's profile!
-   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"> -->
     <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>       
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" />
+    </a>       
 </h1>
 
-<h3 align="center">A passionate rookie developer from India   <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=flat" alt="atharv115" /></h3>
+<h3 align="center">
+    <strong>A passionate rookie developer from India</strong>
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=flat" alt="atharv115" />
+</h3>
 
-</p>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
+</p>
 
 <p align="center">
 <img 
@@ -33,7 +35,7 @@
 </p>
 </p>
 
-***
+---
 <h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
@@ -102,8 +104,8 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
     </a>
+</p>
 
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) -->
 <div align="center"> 
     <details>
         <summary><strong>Vibing to : 🎧</strong></summary>
@@ -119,6 +121,7 @@
         <img
             src="https://readme-typing-svg.herokuapp.com?font=Graduate&size=40&duration=4000&color=664BF7&center=true&vCenter=true&width=900&height=60&lines=This+Site+is+best+viewed+in+Dark+Mode"/></a>   
 </p>
+
 <p align="center">
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
