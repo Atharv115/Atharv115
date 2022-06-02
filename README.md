@@ -20,7 +20,7 @@
 <img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
 </p>-->
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="317"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="316"
         alt="Atharv Golam's Dev Card" /></a>
 
 ---
