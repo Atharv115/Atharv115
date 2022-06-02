@@ -21,11 +21,11 @@
         alt="Atharv Golam's Dev Card" /></a>
 
 <p align="left">
-<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="200"/>
-<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="200"/>
+<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="215"/>
+<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="215"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 <p align="center"> 
     <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" /> 
