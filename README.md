@@ -11,16 +11,16 @@
 </h3>
 
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="220em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
 
 <p align="center">
-<img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="238"/>
+<img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="345"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
         alt="Atharv Golam's Dev Card" /></a>
 
 <p align="center"> 
@@ -33,17 +33,12 @@
 ---
 <h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
-    <a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
+    <!--<a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="atharvgolam" height="30" width="40" /></a>
+            alt="atharvgolam" height="30" width="40" /></a>-->
     <a href="https://twitter.com/atharvgolam115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="atharv58687880" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="atharv-golam-7466a4219" height="30" width="40" /></a>
-    <a href="https://dev.to/atharv" target="blank"><img align="center"
-            src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" height="40" width="40" /></a>
     <a href="https://stackoverflow.com/users/17294179/atharv-golam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="17294179/atharv-golam" height="30" width="40" /></a>
@@ -53,6 +48,8 @@
     <a href="https://www.codechef.com/users/atharvg_1105" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharvg_1105" height="30"
             width="40" /></a>
+    <a href="https://dev.to/atharv" target="blank"><img align="center"
+            src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" height="40" width="40" /></a>
     <a href="https://codeforces.com/profile/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
             alt="atharvgolam" height="30" width="40" /></a>
@@ -62,6 +59,9 @@
     <a href="https://www.leetcode.com/atharv115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="atharv115" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="atharv-golam-7466a4219" height="30" width="40" /></a>
 </p>
 
 <!--<h3 align="center"><strong>Fond off:</strong></h3>
@@ -120,5 +120,5 @@
 
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=60"/>
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=55"/>
 </p>
