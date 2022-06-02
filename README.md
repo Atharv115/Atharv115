@@ -23,6 +23,7 @@
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="315"
         alt="Atharv Golam's Dev Card" /></a>
 
+---
 <h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
     <!--<a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
@@ -94,7 +95,7 @@
     </a>
 </p>
 
----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <p align="center"> 
     <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" /> 
