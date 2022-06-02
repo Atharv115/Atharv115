@@ -106,7 +106,7 @@
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) -->
 <div align="center"> 
     <details>
-        <summary>Vibing to : 🎧</summary>
+        <summary><strong>Vibing to : 🎧</strong></summary>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
             <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="">
             </img> 
@@ -120,4 +120,6 @@
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
 </p>
 
-![](text.gif)
+<p align="center">
+<img src="https://github.com/Atharv115/Atharv115/blob/main/text.gif" />
+</p>
