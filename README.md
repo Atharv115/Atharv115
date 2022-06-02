@@ -108,18 +108,18 @@
     <details>
         <summary><strong>Vibing to : 🎧</strong></summary>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
-            <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="">
+            <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="">
             </img> 
             </a>
     </details>  
 </div>
 
-
+<p align="center">
+<a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?font=Graduate&size=40&duration=4000&color=664BF7&center=true&vCenter=true&width=900&height=60&lines=This+Site+is+best+viewed+in+Dark+Mode"/></a>   
+</p>
 <p align="center">
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
-</p>
-
-<p align="center">
-<img src="https://github.com/Atharv115/Atharv115/blob/main/text.gif" />
 </p>
