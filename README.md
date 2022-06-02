@@ -21,8 +21,8 @@
         alt="Atharv Golam's Dev Card" /></a>
 
 <p align="left">
-<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
-<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="220"/>
+<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="225"/>
+<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="225"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
@@ -35,8 +35,8 @@
     </a>
 </p>
 
-<h3 align="center"><strong>Get in Touch with me:</strong></h3>
-<p align="center">
+<h3 align="left"><strong>Get in Touch with me:</strong></h3>
+<p align="left">
     <!--<a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
             alt="atharvgolam" height="30" width="40" /></a>-->
@@ -49,17 +49,17 @@
     <a href="https://www.hackerrank.com/atharvgolam115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="atharvgolam115" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/atharvg_1105" target="blank"><img align="center"
+    <!--<a href="https://www.codechef.com/users/atharvg_1105" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharvg_1105" height="30"
-            width="40" /></a>
+            width="40" /></a>-->
     <a href="https://dev.to/atharv" target="blank"><img align="center"
             src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" height="40" width="40" /></a>
     <a href="https://codeforces.com/profile/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
             alt="atharvgolam" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@atharvgolam115" target="blank"><img align="center"
+    <!--<a href="https://www.hackerearth.com/@atharvgolam115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-            alt="@atharvgolam115" height="30" width="40" /></a>
+            alt="@atharvgolam115" height="30" width="40" /></a>-->
     <a href="https://www.leetcode.com/atharv115" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="atharv115" height="30" width="40" /></a>
@@ -68,8 +68,8 @@
             alt="atharv-golam-7466a4219" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"><strong>Fond off:</strong></h3>
-<p align="center">
+<h3 align="right"><strong>Fond off:</strong></h3>
+<p align="right">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="30" />
