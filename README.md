@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="211em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="211em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
@@ -20,9 +20,9 @@
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="315"
         alt="Atharv Golam's Dev Card" /></a>
 
-<p align="left">
+<p align="center">
 <img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="225"/>
-<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="225"/>
+<img align="center" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="225"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
@@ -35,8 +35,18 @@
     </a>
 </p>
 
-<h3 align="left"><strong>Get in Touch with me:</strong></h3>
-<p align="left">
+<div align="center">
+    <details>
+        <summary><strong>Vibing to : 🎶🎧🎶</strong></summary>
+            <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
+                <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="">
+                </img> 
+            </a>
+    </details>  
+</div>
+
+<h3 align="center"><strong>Get in Touch with me:</strong></h3>
+<p align="center">
     <!--<a href="https://www.behance.net/atharvgolam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
             alt="atharvgolam" height="30" width="40" /></a>-->
@@ -68,8 +78,8 @@
             alt="atharv-golam-7466a4219" height="30" width="40" /></a>
 </p>
 
-<h3 align="right"><strong>Fond off:</strong></h3>
-<p align="right">
+<h3 align="center"><strong>Fond off:</strong></h3>
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="30" />
@@ -105,16 +115,6 @@
             height="30" />
     </a>-->
 </p>
-
-<div align="center">
-    <details>
-        <summary><strong>Vibing to : 🎶🎧🎶</strong></summary>
-            <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
-                <img alt="" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="">
-                </img> 
-            </a>
-    </details>  
-</div>
 
 <p align="center">
     <img
