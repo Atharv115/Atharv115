@@ -16,12 +16,23 @@
             alt="atharv115" /></a>
 </p>
 
-<!--<p align="center">
-<img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="220"/>
-</p>-->
+<p align="left">
+<img align = "right" src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="200"/>
+<img align="left" src="https://github.com/Atharv115/Atharv115/blob/Assets/Pull%20request-amico.svg" width="200"/>
+</p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="315"
         alt="Atharv Golam's Dev Card" /></a>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+<p align="center"> 
+    <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" /> 
+    </a> -->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&no-frame=true" alt="atharv115" /> 
+    </a>
+</p>
 
 <h3 align="center"><strong>Get in Touch with me:</strong></h3>
 <p align="center">
@@ -91,16 +102,6 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30"
             height="30" />
-    </a>
-</p>
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<p align="center"> 
-    <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&margin-h=8&column=3&no-frame=true" alt="atharv115" /> 
-    </a> -->
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&theme=algolia&margin-w=35&no-frame=true" alt="atharv115" /> 
     </a>
 </p>
 
