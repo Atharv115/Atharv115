@@ -102,7 +102,7 @@
     </a>
 </p>-->
 
-<div align="center"> D
+<div align="center">
     <details>
         <summary><strong>Vibing to : 🎶🎧🎶</strong></summary>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=oj2lvufdgi3p11z5pui8dz53d&redirect=true"> 
@@ -120,5 +120,5 @@
 
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=60"/>
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks for Visiting!&fontSize=60"/>
 </p>
