@@ -5,8 +5,7 @@
             src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>
 </h1>
 
-<h3 align="center">A passionate rookie developer from India <img
-        src="https://komarev.com/ghpvc/?username=atharv115&label=Visitors&style=plastic" alt="atharv115" /></h3>
+<h3 align="center">A passionate rookie developer from India</h3>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="235em"
@@ -25,7 +24,8 @@
             alt="atharv115" /></a>
 </p>
 
-***
+---
+
 <h3 align="center">Get in Touch with me:</h3>
 <p align="center">
     <a href="https://twitter.com/Atharv_golam" target="blank"><img align="center"
@@ -93,6 +93,10 @@
             height="30" />
     </a>
 </p>
+
+<h3 align="center">
+<img
+        src="https://komarev.com/ghpvc/?username=atharv115&label=Thank you for viewing my profile folks&style=for-the-badge" alt="atharv115" /></h3>
 
 <p align="center">
     <img
