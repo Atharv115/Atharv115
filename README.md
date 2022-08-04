@@ -20,9 +20,9 @@
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="270"
         alt="Atharv Golam's Dev Card" /></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Followers,Commits,Issue,PR"
-            alt="atharv115" height="120em"/></a>
+            alt="atharv115" height="115em"/></a>
 </p>
 
 <h3 align="right"><strong>Fond off:</strong></h3>
