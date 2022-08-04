@@ -5,7 +5,10 @@
             src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>
 </h1>
 
-<h3 align="center">A passionate rookie developer from India</h3>
+<h3 align="center">A passionate rookie developer from India </h3>
+<h3 align="center">
+<img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors &style=for-the-badge" alt="atharv115" />
+</h3>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="235em"
@@ -94,14 +97,10 @@
     </a>
 </p>
 
-<h3 align="center">
-<img
-        src="https://komarev.com/ghpvc/?username=atharv115&label=Thank you for viewing my profile folks&style=for-the-badge" alt="atharv115" /></h3>
-
-<p align="center">
+<!--<p align="center">
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
-</p>
+</p> -->
 
 <div align="center">
     
