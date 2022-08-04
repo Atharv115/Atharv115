@@ -5,21 +5,26 @@
             src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>
 </h1>
 
-<h3 align="center">A passionate rookie developer from India </h3>
 <h3 align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋&style=plastic" alt="atharvgolam"
-        height="26em" />
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋 A passionate rookie developer from India&style=plastic&color=9002e3" alt="atharvgolam"
+        height="28em" />
 </h3>
 
+- 🔭 I’m currently working on [CPP-reference Programs library](https://github.com/Atharv115/MAHSS-CPP)
+- 🌱 I’m currently learning **C++, C, HTML, Markdown, Python**
+- 🤝 I’m looking for help with maintaining this repo [MAHSS-CPP](https://github.com/Atharv115/MAHSS-CPP)
+- 💬 Ask me about **C, C++**
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact **I think I'm Annoying**
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="220em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="225em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
 
 
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="270"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="290"
         alt="Atharv Golam's Dev Card" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
         src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
