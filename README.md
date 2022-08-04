@@ -10,7 +10,7 @@
         height="28em" />
 </h3>
 
-<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="290" alt="Atharv Golam's Dev Card" /></a>
+<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
 - 🎓 Higher-Secondary student
 - 🔭 I’m currently working on [**CPP-reference Programs library**](https://github.com/Atharv115/MAHSS-CPP)
 - 🌱 I’m currently learning **C++, C, HTML, Markdown, Python**
@@ -21,7 +21,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="225em" alt="atharv115" /></a>
 
 <!-- <img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/bar.gif"/> -->
-<img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
+<img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/Atharv_golam" target="blank"><img
@@ -65,7 +65,7 @@
             alt="python" width="35" height="30" />
 </h3>
 
-<a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" height="125em" /></a>
+<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" height="125em" /></p>
         
 <p align="center">
     <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode"
