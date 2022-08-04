@@ -18,7 +18,7 @@
 - 💬 Ask me about **C, C++**
 - ⚡ Fun fact **I think I'm Annoying**
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="225em" alt="atharv115" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="220em" alt="atharv115" /></a>
 
 <!-- <img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/bar.gif"/> -->
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
