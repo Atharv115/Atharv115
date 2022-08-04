@@ -7,7 +7,8 @@
 
 <h3 align="center">A passionate rookie developer from India </h3>
 <h3 align="center">
-<img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋&style=plastic" alt="atharvgolam" height="26em"/>
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋&style=plastic" alt="atharvgolam"
+        height="26em" />
 </h3>
 
 <p>
@@ -16,14 +17,13 @@
             alt="atharv115" /></a>
 </p>
 
+
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
         src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="270"
         alt="Atharv Golam's Dev Card" /></a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
-            alt="atharv115" height="120em"/></a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
+        src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
+        alt="atharv115" height="120em" /></a>
 
 <!-- <h3 align="right"><strong>Fond off:</strong></h3>
 <p align="right">
@@ -95,38 +95,41 @@
             alt="atharv115" width="35" height="30" /></a>
 </p> -->
 
-<p align = "center">
-        <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode" width="850em" height="45em"/>
-</p>
-
 <p align="center">
-<p align="left"><font size="5"><strong>Get in touch with me:</strong> </font> </p>
-<p align="right"><font size="5"><strong>Fond off:</strong> </font>
-
-<p align= "center">
-<a href="https://twitter.com/Atharv_golam" target="blank"><img align="left"
+    <strong>Get in touch with me:</strong>
+    <strong>Fond off:</strong>
+</p>
+<p>
+    <a href="https://twitter.com/Atharv_golam" target="blank"><img align="left"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="atharv58687880" width="35" height="30" /></a>
-    <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img align="left"
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-            alt="atharv-golam-7466a4219" width="35" height="30" /></a>
+            alt="atharv58687880" width="35" height="30" />
+    </a>
+    <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img align="left" <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+            alt="atharv-golam-7466a4219" width="35" height="30" />
+    </a>
     <a href="https://dev.to/atharv" target="blank"><img align="left"
-            src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" width="35" height="30" /></a>
+            src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="atharv" width="35" height="30" />
+    </a>
     <a href="https://stackoverflow.com/users/17294179/atharv-golam" target="blank"><img align="left"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="17294179/atharv-golam" width="35" height="30" /></a>
+            alt="17294179/atharv-golam" width="35" height="30" />
+    </a>
     <a href="https://app.daily.dev/atharvgolam115" target="blank">
-        <img align="left"
-            src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"
-            alt="17294179/atharv-golam" width="35" height="35" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="35" height="30" />
+        <img align="left" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"
+            alt="17294179/atharv-golam" width="35" height="35" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
+            alt="cplusplus" width="35" height="30" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="35" height="30" />
+        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="35"
+            height="30" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="35" height="30" />
+        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git"
+            width="35" height="30" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
@@ -135,4 +138,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="python" width="35" height="30" />
-            </p>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode"
+        width="850em" height="45em" />
+</p>
