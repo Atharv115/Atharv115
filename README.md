@@ -21,6 +21,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="230em" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 
+![](https://github.com/donspablo/donspablo/blob/main/assets/bar.gif)
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/Atharv_golam" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -63,9 +64,9 @@
             alt="python" width="35" height="30" />
 </h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
-        src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
-        alt="atharv115" height="120em" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true"
+        alt="atharv115" height="125em" /></a>
         
 <p align="center">
     <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode"
