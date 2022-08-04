@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋 A passionate rookie developer from India&style=plastic&color=9002e3" alt="atharvgolam"
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋 A passionate rookie developer from India&style=plastic&color=291b3e" alt="atharvgolam"
         height="28em" />
 </h3>
 
