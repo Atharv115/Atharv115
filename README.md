@@ -17,9 +17,10 @@
 - 😄 Pronouns: *he/him/his*
 - ⚡ Fun fact **I think I'm Annoying**
   
-  <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="280"
-        alt="Atharv Golam's Dev Card" /></a>
+  <a href="https://app.daily.dev/atharvgolam115"><img align="right" src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="280" alt="Atharv Golam's Dev Card" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="220em" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
+            alt="atharv115" /></a>
+
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/Atharv_golam" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -39,16 +40,6 @@
         <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"
             alt="17294179/atharv-golam" width="35" height="35" />
     </a></h3>
-    </p>
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="220em"
-            src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
-            alt="atharv115" /></a>
-</p>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
-        src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
-        alt="atharv115" height="120em" /></a>
 
 <h3><strong>😎 Interested in:</strong>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -72,6 +63,10 @@
             alt="python" width="35" height="30" />
 </h3>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
+        src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
+        alt="atharv115" height="120em" /></a>
+        
 <p align="center">
     <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode"
         width="850em" height="45em" />
