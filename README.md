@@ -11,26 +11,24 @@
 </h3>
 
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="230em"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="210em"
             src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 </p>
 
-<p align="center">
-    <img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" alt="Coding svg" width="270" />
-</p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="345"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="250"
         alt="Atharv Golam's Dev Card" /></a>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=35&margin-h=10&column=3&no-frame=true"
-            alt="atharv115" height="255em"/></a>
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true"
+            alt="atharv115" height="100em"/></a>
 </p>
 
 ---
 
-<h3 align="center">Get in Touch with me:</h3>
-<p align="center">
+<h3 align="left"><strong>Get in Touch with me:</strong></h2>
+<p align="left">
     <a href="https://twitter.com/Atharv_golam" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="atharv58687880" width="35" height="30" /></a>
@@ -63,8 +61,8 @@
             alt="atharv115" width="35" height="30" /></a> -->
 </p>
 
-<h3 align="center">Fond off:</h3>
-<p align="center">
+<h3 align="right"><strong>Fond off:</strong></h3>
+<p align="right">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="35" height="30" />
     </a>
@@ -98,11 +96,6 @@
             height="30" />
     </a> -->
 </p>    
-
-<!--<p align="center">
-    <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
-</p> -->
 
 <p align = "center">
         <img src="https://github.com/Atharv115/Atharv115/blob/main/hRTPqQEl.gif" alt="This site is best viewed in Dark Mode" width="850em" height="45em"/>
