@@ -20,10 +20,10 @@
     <img src="https://github.com/Atharv115/Atharv115/blob/Assets/illustration.svg" width="270" />
 </p>
 <a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="350"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="345"
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=35&margin-h=10&column=3&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=35&margin-h=10&column=3&no-frame=true"
             alt="atharv115" height="265em"/></a>
 </p>
 
