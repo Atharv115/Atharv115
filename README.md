@@ -10,7 +10,8 @@
         height="28em" />
 </h3>
 
-<a href="https://app.daily.dev/atharvgolam115"><img align="right" src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="275" alt="Atharv Golam's Dev Card" /></a>
+<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="280" alt="Atharv Golam's Dev Card" /></a>
+- 🎓 Higher-Secondary student
 - 🔭 I’m currently working on [**CPP-reference Programs library**](https://github.com/Atharv115/MAHSS-CPP)
 - 🌱 I’m currently learning **C++, C, HTML, Markdown, Python**
 - 🤝 I’m looking for help with maintaining this repo [**MAHSS-CPP**](https://github.com/Atharv115/MAHSS-CPP)
@@ -18,10 +19,10 @@
 - 😄 Pronouns: *he/him/his*
 - ⚡ Fun fact **I think I'm Annoying**
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="215em" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
-            alt="atharv115" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="220em" alt="atharv115" /></a>
 
-![](https://github.com/donspablo/donspablo/blob/main/assets/bar.gif)
+![](https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif)
+<img width="100%" height="1" align="center" src="./assets/bar.gif" />
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/Atharv_golam" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
