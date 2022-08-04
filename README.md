@@ -17,6 +17,9 @@
 - 😄 Pronouns: *he/him/his*
 - ⚡ Fun fact **I think I'm Annoying**
   
+  <a href="https://app.daily.dev/atharvgolam115"><img align="right"
+        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="280"
+        alt="Atharv Golam's Dev Card" /></a>
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/Atharv_golam" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -43,9 +46,6 @@
             alt="atharv115" /></a>
 </p>
 
-<a href="https://app.daily.dev/atharvgolam115"><img align="right"
-        src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="280"
-        alt="Atharv Golam's Dev Card" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left"
         src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Stars,Commits,Issue,PR"
         alt="atharv115" height="120em" /></a>
