@@ -10,6 +10,7 @@
         height="28em" />
 </h3>
 
+<a href="https://app.daily.dev/atharvgolam115"><img align="right" src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="275" alt="Atharv Golam's Dev Card" /></a>
 - 🔭 I’m currently working on [**CPP-reference Programs library**](https://github.com/Atharv115/MAHSS-CPP)
 - 🌱 I’m currently learning **C++, C, HTML, Markdown, Python**
 - 🤝 I’m looking for help with maintaining this repo [**MAHSS-CPP**](https://github.com/Atharv115/MAHSS-CPP)
@@ -17,7 +18,6 @@
 - 😄 Pronouns: *he/him/his*
 - ⚡ Fun fact **I think I'm Annoying**
   
-  <a href="https://app.daily.dev/atharvgolam115"><img align="right" src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg" width="275" alt="Atharv Golam's Dev Card" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="215em" src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true"
             alt="atharv115" /></a>
 
@@ -44,23 +44,23 @@
 
 <h3><strong>😎 Interested in:</strong>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
             alt="cplusplus" width="35" height="30" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="35"
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="35"
             height="30" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git"
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git"
             width="35" height="30" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
             alt="css3" width="35" height="30" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="python" width="35" height="30" />
 </h3>
 
