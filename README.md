@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate rookie developer from India </h3>
 <h3 align="center">
-<img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors &style=for-the-badge" alt="atharv115" />
+<img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋&style=plastic" alt="atharvgolam" height="30em"/>
 </h3>
 
 <p>
@@ -24,7 +24,7 @@
         alt="Atharv Golam's Dev Card" /></a>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=algolia&margin-w=35&margin-h=10&column=3&no-frame=true"
-            alt="atharv115" /></a>
+            alt="atharv115" height="200em"/></a>
 </p>
 
 ---
@@ -102,7 +102,6 @@
         src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" />
 </p> -->
 
-<div align="center">
-    
-![hRTPqQEl](https://user-images.githubusercontent.com/86460457/171620072-687e6440-d557-4bc6-89f3-12b04bc18706.gif)
-</div>
+<p align = "center">
+        <img src="https://user-images.githubusercontent.com/86460457/171620072-687e6440-d557-4bc6-89f3-12b04bc18706.gif" width="900em" height="50em"/>
+</p>
