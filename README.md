@@ -13,7 +13,7 @@
 <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
 - 🎓 Higher-Secondary student
 - 🔭 I’m currently working on [**CPP-reference Programs library**](https://github.com/Atharv115/MAHSS-CPP)
-- 🌱 I’m currently learning **C++, C, HTML, Markdown, Python**
+- 🌱 I’m currently learning **C++**
 - 🤝 I’m looking for help with maintaining this repo [**MAHSS-CPP**](https://github.com/Atharv115/MAHSS-CPP)
 - 💬 Ask me about **C, C++**
 - ⚡ Fun fact **I think I'm Annoying**
