@@ -63,6 +63,12 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="python" width="35" height="30" />
+    </a>
 </h3>
 
 <p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" height="125em" /></p>
+
+<details align="center">
+<summary>👇🏻for Funny Coding memes </summary>
+<img src="https://random-memer.herokuapp.com/" width="600px" align="center"/>
+</details>
