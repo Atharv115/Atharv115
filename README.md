@@ -72,3 +72,5 @@
 <summary>👇🏻for Funny Coding memes </summary>
 <img src="https://random-memer.herokuapp.com/" width="600px" align="center"/>
 </details>
+
+<!-- [![wakatime](https://wakatime.com/badge/user/257ab118-3c46-49bd-8f2b-e50835a25750.svg)](https://wakatime.com/@257ab118-3c46-49bd-8f2b-e50835a25750) -->
