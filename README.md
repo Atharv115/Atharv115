@@ -68,9 +68,9 @@
 
 <p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" height="125em" /></p>
 
-<details align="center">
+<!--<details align="center">
 <summary>👇🏻for Funny Coding memes </summary>
 <img src="https://random-memer.herokuapp.com/" width="600px" align="center"/>
-</details>
+</details> -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/257ab118-3c46-49bd-8f2b-e50835a25750.svg)](https://wakatime.com/@257ab118-3c46-49bd-8f2b-e50835a25750) -->
