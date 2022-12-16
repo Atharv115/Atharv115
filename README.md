@@ -26,11 +26,11 @@
 <p align="center" href="https://www.digitalocean.com/?refcode=f0cfdaf4cf64&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></p>
 
 <h3><strong>📫 Reach me at : </strong>
-<a href="https://twitter.com/Atharv_golam" target="blank"><img
+<a href="https://twitter.com/atharvgolam115" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="atharv58687880" width="35" height="30" />
     </a>
-    <a href="https://linkedin.com/in/atharv-golam-7466a4219" target="blank"><img
+    <a href="https://linkedin.com/in/atharvgolam" target="blank"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
             alt="atharv-golam-7466a4219" width="35" height="30" />
     </a>
