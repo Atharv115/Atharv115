@@ -22,8 +22,13 @@
 
 <!-- <img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/bar.gif"/> -->
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
+<p align="center">
+    <a align="center" href='https://ko-fi.com/atharvgolam' target='_blank'>
+        <img style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png' border='0' alt='Buy Me a Coffee at ko-fi.com'/>
+    </a>
+</p>
 
-<p align="center" href="https://www.digitalocean.com/?refcode=f0cfdaf4cf64&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></p>
+<!--<p align="center" href="https://www.digitalocean.com/?refcode=f0cfdaf4cf64&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></p> -->
 
 <h3><strong>📫 Reach me at : </strong>
 <a href="https://twitter.com/atharvgolam115" target="blank"><img
