@@ -26,7 +26,11 @@
     <a align="center" href='https://ko-fi.com/atharvgolam' target='_blank'>
         <img style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png' border='0' alt='Buy Me a Coffee at ko-fi.com'/>
     </a>
+    <a align="center" href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
+        <img src='https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif' alt='Buy Me a Coffee'/>
+    </a>
 </p>
+
 
 <!--<p align="center" href="https://www.digitalocean.com/?refcode=f0cfdaf4cf64&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></p> -->
 
