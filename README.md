@@ -23,11 +23,11 @@
 <!-- <img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/bar.gif"/> -->
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 <p align="center">
-    <a align="center" href='https://ko-fi.com/atharvgolam' target='_blank'>
-        <img style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png' border='0' alt='Buy Me a Coffee at ko-fi.com'/>
+    <a align="left" href='https://ko-fi.com/atharvgolam' target='_blank'>
+        <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:80px" alt='Buy Me a Coffee at ko-fi.com'/>
     </a>
-    <a align="center" href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
-        <img src='https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif' alt='Buy Me a Coffee'/>
+    <a align="right" href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
+        <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:80px" alt='Buy Me a Coffee'/>
     </a>
 </p>
 
