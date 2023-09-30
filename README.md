@@ -8,10 +8,9 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=atharv115&label=This Nerd Says Hello 🙋‍♂️ to Visitors &style=plastic&color=291b6e" alt="atharvgolam"
         height="20em" />
-</p>
-
-<!-- <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a> -->
-<p>
+<!-- </p>
+<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a>
+<p> -->
 
 - 🎓 UnderGrad student
 - 🌱 I’m currently learning **Python**
