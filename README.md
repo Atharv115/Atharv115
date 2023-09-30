@@ -11,12 +11,12 @@
 </h3>
 
 <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
-- 🎓 Higher-Secondary student
-- 🔭 I’m currently working on [**CPP-reference Programs library**](https://github.com/Atharv115/MAHSS-CPP)
-- 🌱 I’m currently learning **C++**
-- 🤝 I’m looking for help with maintaining this repo [**MAHSS-CPP**](https://github.com/Atharv115/MAHSS-CPP)
-- 💬 Ask me about **C, C++**
-- ⚡ Fun fact **I think I'm Annoying**
+- 🎓 UnderGrad student
+
+- 🌱 I’m currently learning **Python**
+- 🤝 I’m looking for **Hackathon Buddies**
+- 💬 Ask me about **C, C++, Pyton**
+
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="220em" alt="atharv115" /></a>
 
@@ -77,7 +77,7 @@
     </a>
 </h3>
 
-<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" height="125em" /></p>
+<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" /></p>
 
 <!--<details align="center">
 <summary>👇🏻for Funny Coding memes </summary>
