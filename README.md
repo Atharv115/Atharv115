@@ -12,7 +12,6 @@
 
 <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
 - 🎓 UnderGrad student
-
 - 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for **Hackathon Buddies**
 - 💬 Ask me about **C, C++, Pyton**
@@ -63,21 +62,21 @@
         <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="35"
             height="30" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git"
             width="35" height="30" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
             alt="css3" width="35" height="30" />
-    </a>
+    </a> -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="python" width="35" height="30" />
     </a>
 </h3>
 
-<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true" alt="atharv115" /></p>
+<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=,Commit,Issues,Stars,Followers" alt="atharv115" /></p>
 
 <!--<details align="center">
 <summary>👇🏻for Funny Coding memes </summary>
