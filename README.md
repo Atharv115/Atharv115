@@ -5,31 +5,21 @@
             src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>
 </h1>
 
-<h3 align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Hello Visitors 👋 A passionate rookie developer from India&style=plastic&color=291b3e" alt="atharvgolam"
-        height="28em" />
-</h3>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=atharv115&label=This Nerd Says Hello 🙋‍♂️ to Visitors &style=plastic&color=291b6e" alt="atharvgolam"
+        height="20em" />
+</p>
 
-<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
+<!-- <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a> -->
+<p>
+
 - 🎓 UnderGrad student
 - 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for **Hackathon Buddies**
 - 💬 Ask me about **C, C++, Pyton**
-
-  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="220em" alt="atharv115" /></a>
-
-<!-- <img width="100%" height="1" align="center" src="https://github.com/donspablo/donspablo/blob/main/assets/bar.gif"/> -->
-<img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
-<p align="center">
-    <a align="left" href='https://ko-fi.com/atharvgolam' target='_blank'>
-        <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:80px" alt='Buy Me a Coffee at ko-fi.com'/>
-    </a>
-    <a align="right" href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
-        <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:80px" alt='Buy Me a Coffee'/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="right" alt="atharv115" >   
     </a>
 </p>
-
 
 <!--<p align="center" href="https://www.digitalocean.com/?refcode=f0cfdaf4cf64&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></p> -->
 
@@ -76,7 +66,16 @@
     </a>
 </h3>
 
-<p align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=,Commit,Issues,Stars,Followers" alt="atharv115" /></p>
+<p align="center"> 
+    <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=,Commit,Issues,Stars,Followers"/>
+    </a>
+    <a align="right" href='https://ko-fi.com/atharvgolam' target='_blank'>
+        <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:80px" alt='Buy Me a Coffee at ko-fi.com'/>
+    </a>
+    <a align="right" href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
+        <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:80px" alt='Buy Me a Coffee'/>
+    </a>
+</p>
 
 <!--<details align="center">
 <summary>👇🏻for Funny Coding memes </summary>
