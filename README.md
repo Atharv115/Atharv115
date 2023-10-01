@@ -27,7 +27,6 @@
 <img  src="Icons\python.svg" width="40" height="30" />
 
 <p align="center">
-    <a href="github.com/Atharv115"></a>
 <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Commits,PullRequest,Stars,Followers,Issues,Repositories"> -->
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=atharv115&theme=dracula&margin-w=5&no-frame=true&title=Commits,PullRequest,Stars,Followers,Issues,Repositories">
 </p>
