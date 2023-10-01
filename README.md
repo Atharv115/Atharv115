@@ -1,26 +1,24 @@
 <h1 align="center">
     Welcome to Atharv Golam's profile!
     <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" /></a>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=A100FF&center=true&vCenter=true&width=500&height=60&lines=Always+Learning+new+things;Developing+Real+World+Solutions!!" />
+    </a>
 </h1>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile Views&style=plastic&color=291b3e" alt="atharvgolam" height="20em" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="right" height="220em">   
+
+<img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile Views&style=plastic&color=291b3e" alt="atharvgolam" height="25em"/>
 
 <!-- <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="right" height="190em">   
-</a>
-
 - 🎓 UnderGrad student
+- 🏎️ Formula Student
 - 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for **Hackathon Buddies**
 - 💬 Ask me about **C, C++, Pyton**
 - 🔎 Looking for **Hackathon Buddies**
 
-<h3><strong>Connect with me:</strong>
+<h3> <b>Connect with me </b>
 <a href="https://twitter.com/atharvgolam115" target="blank">
     <img src="Icons\x.svg" width="30" height="30" alt="Twitter"/>
 </a>
@@ -38,27 +36,22 @@
 </a>
 </h3>
 
-<h3><strong>Languages & Tools:</strong>
-<a> 
-    <img  src="Icons\cplusplus.svg" width="35" height="30" />
-</a>
-<a> 
-    <img  src="Icons\c.svg" width="35" height="30" />
-</a>
-<a> 
-    <img  src="Icons\python.svg" width="35" height="30" />
-</a>
+<h3> <b>Languages & Tools </b>
+<img  src="Icons\cplusplus.svg" width="35" height="30" />
+<img  src="Icons\c.svg" width="35" height="30" />
+<img  src="Icons\python.svg" width="35" height="30" />
+<a href="twitter.com/atharvgolam115"></a>
 </h3>
 
-<p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=,Commit,Issues,Followers">
-</p>
+<h2 align="center">
+    <a href="github.com/Atharv115"></a>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=atharv115&hide_border=true&no-bg=true&theme=dracula&margin-w=5&no-frame=true&title=Commits,PullRequest,Stars,Followers,Issues,Repositories">
+</h2>
 
-<p align="right">
+<p align="center">
 <a href='https://ko-fi.com/atharvgolam' target='_blank'>
-        <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:50px" alt='ko-fi.com'>  
+        <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:70px" alt='ko-fi.com'>  
 </a>  
 <a href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
-        <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:50px" alt='Buy Me a Coffee'>
-</a>
-</p>
+        <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:70px" alt='Buy Me a Coffee'>
+</a></p>
