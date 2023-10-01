@@ -32,10 +32,17 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=atharv115&theme=dracula&margin-w=5&no-frame=true&title=Commits,PullRequest,Stars,Followers,Issues,Repositories">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href='https://ko-fi.com/atharvgolam' target='_blank'>
         <img src='https://media.giphy.com/media/mCapG8gslhSEkMsRVQ/giphy.gif' style="height:70px" alt='ko-fi.com'>  
 </a>  
 <a href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
         <img src='https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif' style="height:70px" alt='Buy Me a Coffee'>
+</a></p> -->
+<p align="center">
+<a href='https://ko-fi.com/atharvgolam' target='_blank'>
+        <img src='Icons\kofi.png' style="height:50px" alt='ko-fi.com'>  
+</a>  
+<a href='https://www.buymeacoffee.com/atharvgolam' target='_blank'>
+        <img src='Icons\coffee.png' style="height:50px" alt='Buy Me a Coffee'>
 </a></p>
