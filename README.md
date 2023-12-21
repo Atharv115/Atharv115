@@ -7,12 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile Views&style=plastic&color=291b3e" alt="atharvgolam" height="25em"/>
 <!-- <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a> -->
 
-- [x] 🎓 UnderGrad student
-- [x] 🏎️ Formula Student
-- [x] 🌱 I’m currently learning **Python**
+- [x] 🎓 UG-CS student
+- [x] 🏎️ Formula Enthusiast
+- [x] 🐍 I’m currently learning **Python**
 - [x] 🤝 I’m looking for **Hackathon Buddies**
 - [x] 💬 Ask me about **C, C++, Pyton**
-- [x] 🔎 Looking for **Hackathon Buddies**
+- [x] 🔎 In search of Incredible!!
 
 <b>Connect with me  </b>
 <a href="https://twitter.com/atharvgolam115" target="blank"> <img src="Icons\x.svg" width="40" height="30" alt="Twitter"/> </a>
