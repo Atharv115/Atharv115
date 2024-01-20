@@ -4,7 +4,7 @@
 </h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=atharv115&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="right" height="220em">   
-<img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile Views&style=plastic&color=291b3e" alt="atharvgolam" height="25em"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=atharv115&label=Profile Views&style=plastic&color=291b3e" alt="atharvgolam" height="25em"/> -->
 <!-- <a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" ></a> -->
 
 - [x] 🎓 UG-CS student
